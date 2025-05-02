@@ -20,7 +20,7 @@ MediCheck is an iOS application designed to help users manage their healthcare a
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [[repository-url](https://github.com/deepakstwt/MedicheckM)]
 ```
 
 2. Open the project in Xcode:
